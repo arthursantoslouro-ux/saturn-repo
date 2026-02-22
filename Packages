@@ -1,0 +1,12 @@
+Package: saturn
+Version: 1.0
+Architecture: all
+Maintainer: mini dev
+Depends: python
+Filename: ./saturn.deb
+Size: 3248
+MD5sum: bf2041e6aaff8a8618b01208a9793da2
+SHA1: d8711cf34850efeae63eec2a2e4bdba3bca8f89f
+SHA256: 2a961ecfc7852a9a73090147e5dafc8d07fdb4866e51a32ec8846a3ec2b932e3
+Description: Saturn Editor 🪐 - Editor de codigo moderno para Termux
+
